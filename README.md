@@ -1,6 +1,6 @@
 <h1 align="center">Leo Chung</h1>
 <h3 align="center">Full Stack Software Engineer</h3>
-<h5 align="center">Hi, my name is Leo and I am a former investment banker turned software engineer. During my time in the finance industry, I truly enjoyed helping my clients by building and presenting in-depth financial analyses, but I felt as if I was not growing technically or having as much of an impact through my work. I pivoted to software engineering after realizing that the industry was perfect for my values. I love creating ideas and presenting them through applications and I hope that you will be able to experience and enjoy some of my work in the future.</h5>
+<h5 align="center">Hi, my name is Leo and I am a fullstack software engineer. I love creating ideas and presenting them through applications and I hope that you will be able to experience and enjoy some of my work in the future.</h5>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=leochung97&label=Profile%20views&color=ff79c6&style=for-the-badge" alt="leochung97" /> </p
 
