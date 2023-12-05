@@ -1,6 +1,6 @@
-<h1 align="center">Leo Chung</h1>
-<h3 align="center">Full Stack Software Engineer</h3>
-<h5 align="center">Hi, my name is Leo and I am a fullstack software engineer. I love creating ideas and presenting them through applications and I hope that you will be able to experience and enjoy some of my work in the future.</h5>
+<h1>Leo Chung</h1>
+<h3>Full Stack Software Engineer</h3>
+<h5>Hi, my name is Leo and I am a fullstack software engineer. I love creating ideas and presenting them through applications and I hope that you will be able to experience and enjoy some of my work in the future.</h5>
 
 <div>
   <br/>
